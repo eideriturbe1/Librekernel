@@ -25,7 +25,7 @@
 
 #***Overview of Linux Libre and Libre Kernel for personal cyber security and privacy***
 
-##***The need for this technology***
+##***The need for this technology***-
 
 - Traffic Sniffing: those that are monitoring your traffic (e.g. government spy/monitoring institutions)
 		
